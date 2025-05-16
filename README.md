@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQGVv-Ghb3vzmw/profile-displaybackgroundimage-shrink_350_1400/B4DZbT14CNIEAY-/0/1747310838594?e=1752710400&v=beta&t=SHW8iW54sT11o10QeloRe6MwftpR-Y03Xsi9QgYaVlc)
+![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQGw0oQ6afbkmA/profile-displaybackgroundimage-shrink_350_1400/B4DZbY1xxsH8AY-/0/1747394699011?e=1752710400&v=beta&t=059P-foABYRuJ0AmyoWllMyxuTW2iCSQBrTeBO-A7wU)
 
 <h1 align="center">Hi 👋, I'm Seyhan Çağlaroğlu</h1>
 <h3 align="center">A passionate backend(.NET) developer from Turkey</h3>
