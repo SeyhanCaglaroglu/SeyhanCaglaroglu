@@ -5,7 +5,7 @@
 
 I develop projects in the .NET ecosystem using Microservices architecture, RESTful API, ASP.NET Core MVC technologies, popular design patterns and ORM tools.
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+<img align="right" src="https://github.com/SeyhanCaglaroglu/SeyhanCaglaroglu/blob/main/2211.w026.n002.2759B.p1.2759.jpg?raw=true" width="360px"/>
 
 ### 🧐 More About Me:
 
