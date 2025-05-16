@@ -3,15 +3,25 @@
 <h1 align="center">Hi 👋, I'm Seyhan Çağlaroğlu</h1>
 <h3 align="center">A passionate backend(.NET) developer from Turkey</h3>
 
-- 🌱 I aim to learn **Azure Devops, Kubernetes, .NET-AI technologies**
+I develop projects in the .NET ecosystem using Microservices architecture, RESTful API, ASP.NET Core MVC technologies, popular design patterns and ORM tools.
 
-- 💬 Ask me about **.NET**
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
-- 📫 How to reach me **seyhancaglaroglu@gmail.com**
+### 🧐 More About Me:
+
+- 🔭 &nbsp; I’m currently working on **.NET**
+
+- 🌱 &nbsp; I aim to learn **Azure Devops, Kubernetes, .NET-AI technologies**
+
+- 💬 &nbsp; Ask me about **.NET**
+
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/SeyhanCaglaroglu?tab=repositories)
+
+- 📫 &nbsp; How to reach me **seyhancaglaroglu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/seyhan çağlaroğlu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="seyhan çağlaroğlu" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/seyhan-%C3%A7a%C4%9Flaro%C4%9Flu-083b9929a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="seyhan çağlaroğlu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
