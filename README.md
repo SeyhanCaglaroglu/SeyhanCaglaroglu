@@ -3,7 +3,7 @@
 <h1 align="center">Merhaba 👋, Ben Seyhan Çağlaroğlu</h1>
 <h3 align="center">.NET ekosisteminde, mikroservis mimarisi ile projeler geliştiren bir Backend geliştiricisiyim.</h3>
 
-<img align="right" src="https://github.com/SeyhanCaglaroglu/SeyhanCaglaroglu/blob/main/2211.w026.n002.2759B.p1.2759.jpg?raw=true" width="360px"/>
+<img align="right" src="https://github.com/SeyhanCaglaroglu/SeyhanCaglaroglu/blob/main/programmer_v_02.jpg?raw=true" width="360px"/>
 
 ### 🚀 Hakkımda Kısaca:
 
