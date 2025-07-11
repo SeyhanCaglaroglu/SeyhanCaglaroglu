@@ -1,17 +1,17 @@
 ![Banner](https://media.licdn.com/dms/image/v2/D4D16AQGw0oQ6afbkmA/profile-displaybackgroundimage-shrink_350_1400/B4DZbY1xxsH8AY-/0/1747394699011?e=1752710400&v=beta&t=059P-foABYRuJ0AmyoWllMyxuTW2iCSQBrTeBO-A7wU)
 
 <h1 align="center">Merhaba 👋, Ben Seyhan Çağlaroğlu</h1>
-<h3 align="center">.NET ekosisteminde uzmanlaşmış, mikroservis mimarisi ile projeler geliştiren bir Backend geliştiricisiyim.</h3>
+<h3 align="center">.NET ekosisteminde, mikroservis mimarisi ile projeler geliştiren bir Backend geliştiricisiyim.</h3>
 
 <img align="right" src="https://github.com/SeyhanCaglaroglu/SeyhanCaglaroglu/blob/main/2211.w026.n002.2759B.p1.2759.jpg?raw=true" width="360px"/>
 
 ### 🚀 Hakkımda Kısaca:
 
 - 🎓 **Yönetim Bilişim Sistemleri** mezunuyum (Necmettin Erbakan Üniversitesi, 2019–2024)
-- 🔭 Şu anda **.NET Core, Mikroservis Mimarisi, Web API ve ASP.NET Core MVC** ile projeler geliştiriyorum.
-- 🌱 Yakın zamanda öğrenmeyi hedeflediğim konular: **Azure DevOps, Kubernetes, .NET AI çözümleri**
+- 🔭 Şu anda **.NET Core, Mikroservis Mimarisi, Rest API ve ASP.NET Core MVC, LLM destekli çözümler** ile projeler geliştiriyorum.
+- 🌱 Yakın zamanda öğrenmeyi hedeflediğim konular: **Azure DevOps, Kubernetes**
 - 💬 Bana dilediğiniz konuda yazabilirsiniz: **seyhancaglaroglu@gmail.com**
-- 🔗 Projelerimin çoğu GitHub hesabımda yer alıyor: [GitHub Profilim](https://github.com/SeyhanCaglaroglu)
+- 🔗 Projelerimin çoğu GitHub repomda yer alıyor: [GitHub Repom](https://github.com/SeyhanCaglaroglu?tab=repositories)
 
 ---
 
@@ -91,9 +91,9 @@
 
 ---
 
-### ⚙️ Kullandığım Araçlar ve Teknolojiler
+### ⚙️ Kullandığım Araçlar ve Teknolojilerden Bazıları
 
-<p align="left">
+<p align="center">
 <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/></a>
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/></a>
 <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></a>
@@ -105,7 +105,3 @@
 <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/></a>
 <a href="https://www.chartjs.org" target="_blank"><img src="https://www.chartjs.org/media/logo-title.svg" alt="ChartJS" width="40" height="40"/></a>
 </p>
-
----
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=seyhancaglaroglu&" alt="seyhancaglaroglu" /></p>
